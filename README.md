@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashgkar
+- 👋 Hi, I’m Yash
 - 👀 I’m interested in web applications and PWA's. 
 - 🌱 I’m currently learning golang.
 - 💞️ I’m looking to collaborate on anything exciting & cool fintech.
