@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash
-- 👀 I’m interested in web applications and PWAs. 
+- 👀 I’m learning AWS services. 
 - 🌱 I’m optimising Python Django GraphQL API's.
-- 💞️ I’m looking to collaborate on anything exciting & cool in fintech.
+- 💞️ I’m looking to collaborate on anything exciting & cool.
 - 📫 How to reach me? - ping me on X @codeitachi
 
 <!---
